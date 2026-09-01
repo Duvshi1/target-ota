@@ -1,0 +1,11 @@
+{
+    "msg": "Update available",
+    "error_code": 0,
+    "available_updates": {
+        "release_date": "2026-08-28",
+        "changelog": "System update.",
+        "version": "V1.02.09-20260828",
+        "Applicable_for": "V1.02.02-20260521",
+        "Download_link": "https://github.com/Duvshi1/target-ota/releases/download/V1.02.09-20260828/target-uz708-V1.02.09-20260828.zip"
+    }
+}

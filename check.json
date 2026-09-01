@@ -1,0 +1,10 @@
+{
+    "msg": "Update available",
+    "error_code": 0,
+    "available_updates": {
+        "release_date": "2026-08-28",
+        "changelog": "System update.",
+        "version": "V1.02.09-20260828",
+        "Applicable_for": "V1.02.02-20260521"
+    }
+}
