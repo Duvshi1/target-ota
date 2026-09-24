@@ -2,9 +2,9 @@
     "msg": "Update available",
     "error_code": 0,
     "available_updates": {
-        "release_date": "2026-09-15",
-        "changelog": "System update.",
-        "version": "V1.03.03-20260915",
-        "Applicable_for": "V1.02.09-20260828"
+        "release_date": "2026-09-24",
+        "changelog": "Test update for OTA flow verification.",
+        "version": "V1.03.04-20260924",
+        "Applicable_for": "V1.03.03-20260915"
     }
 }
